@@ -1,7 +1,7 @@
 # FrozenLake Q-Learning Project
 
 ## Project Description
-This project implements a Q-Learning algorithm to solve the FrozenLake environment from Gymnasium (formerly OpenAI Gym). FrozenLake is a 4x4 grid environment where an agent must navigate from the starting position to the goal while avoiding holes.
+This project implements a Q-Learning algorithm to solve the FrozenLake environment from Gymnasium (formerly OpenAI Gym). FrozenLake is a 4x4 and 8x8 grid environment where an agent must navigate from the starting position to the goal while avoiding holes.
 
 ## Features
 - Q-Learning implementation with epsilon-greedy exploration
